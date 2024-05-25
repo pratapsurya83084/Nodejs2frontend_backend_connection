@@ -50,7 +50,7 @@ app.listen(port,()=>{
     console.log(`server at http://localhost:${port}`);
 })
 
-// import express from "express";
+// import express from "express";      
 // const app = express();
 
 // app.get("/prataps/data", (req, res) => {
